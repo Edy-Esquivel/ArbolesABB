@@ -1,4 +1,4 @@
-Este Programa se utiliza para controlar una lista de tareas asignadas a un equipo de Desarrollo de Software. por medio de arboles Binarios de Busqueda.
+Este Programa se utiliza para controlar una lista de tareas asignadas a un equipo de Desarrollo de Software, Por medio de arboles Binarios de Busqueda.
 
 //INICIO
 
